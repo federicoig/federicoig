@@ -9,7 +9,7 @@ Despues de terminar la secundaria, empecé a estudiar desarrollo web y actualmen
 Mi mayor objetivo es seguir aprendiendo todo lo que pueda, para eventualmente conseguir trabajo
 como desarrollador! 
 
-### Lenguajes/tecnologías que uso:
+### tecnologías que uso:
 
 ⚡ HTML ⚡ CSS (SCSS) ⚡ JavaScript(ES6) 
 
