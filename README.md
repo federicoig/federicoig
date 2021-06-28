@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Federico!</h1>
+<h1>Hi, I'm Federico!</h1>
 
 <p align="left">I've been near 💻 <strong>technology and computers</strong>  from an <strong>early age</strong>.</p>
 <p align="left">Last year I started to program <strong>personal projects</strong> to get better...</p>
