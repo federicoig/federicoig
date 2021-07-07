@@ -1,7 +1,7 @@
 <h1>Hi, I'm Federico!</h1>
 
-<p align="left">I've been near 💻 <strong>technology and computers</strong>  from an <strong>early age</strong>.</p>
-<p align="left">Last year I started to program <strong>personal projects</strong> to get better...</p>
+<p align="left">I've been near 💻 <strong>technology and computers</strong> since I was <strong>three</strong> years old.</p>
+<p align="left">Last year I started to program <strong>personal projects</strong> in order to improve...</p>
 
 <h3>Technologies I'm familiar with:</h3>
 
