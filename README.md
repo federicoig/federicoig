@@ -1,8 +1,8 @@
 <h1>Hi, I'm Federico!</h1>
 
-<p align="left">I've been near 💻 <strong>technology and computers</strong> since I was <strong>three</strong> years old.</p>
-<p align="left">In 2020 I started to learn and program <strong>personal projects</strong> in order to improve.</p>
-<p align="left">Currently, I'm <strong>working at <a target="_blank" rel="noopener noreferrer" href="https://www.alkemy.org/">Alkemy</a></strong>, in an ONG web project made in React.</p>
+<p align="left">🔷 I've been near 💻 <strong>technology and computers</strong> since I was <strong>three</strong> years old.</p>
+<p align="left">🔷 In 2020 I started to learn and program <strong>personal projects</strong> in order to improve.</p>
+<p align="left">🔷 Currently, I'm <strong>working at <a target="_blank" rel="noopener noreferrer" href="https://www.alkemy.org/">Alkemy</a></strong>, in an ONG web project made in React.</p>
 
 
 <h3>Technologies I'm familiar with:</h3>
