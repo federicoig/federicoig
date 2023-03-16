@@ -2,7 +2,7 @@
 
 <p align="left">🔷 I've been near 💻 <strong>technology and computers</strong> since I was <strong>three</strong> years old.</p>
 <p align="left">🔷 In 2020 I started to learn and program <strong>personal projects</strong> in order to improve.</p>
-<p align="left">🔷 Currently, I'm <strong>working at <a target="_blank" rel="noopener noreferrer" href="https://www.glamit.com.ar/">Glamit</a></strong>, as a front-end developer.</p>
+<p align="left">🔷 Currently, I'm <strong>working at <a target="_blank" rel="noopener noreferrer" href="https://www.accenture.com/ar-es/services/song/commerce-transformation">Accenture Song</a></strong>, as a front-end developer, doing e-commerce.</p>
 
 
 <h3>Technologies I'm familiar with:</h3>
